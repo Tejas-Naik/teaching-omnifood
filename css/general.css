@@ -62,7 +62,7 @@ body {
 /* GENERAL REUSABLE COMPONENTS */
 /******************************/
 .heading-primary,
-.heading-,
+.heading-secondary,
 .heading-tertiary {
   letter-spacing: -0.5px;
   font-weight: 700;
