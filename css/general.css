@@ -32,6 +32,7 @@ Paragraph Default: 1.6
 --- 05 SHADOWS
 --- 06 BORDER RADIUS
 Default: 9px
+Medium : 11px
 --- 07 WHITESPACE
 - Spacing System (px)
 2 / 4 / 8 / 12 / 16 / 24 / 32 / 48 / 64 / 80 / 96 / 128
@@ -165,4 +166,8 @@ body {
   margin-bottom: 1.6rem;
   text-transform: uppercase;
   letter-spacing: 0.75px;
+}
+
+strong {
+  font-weight: 500;
 }
